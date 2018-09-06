@@ -1,4 +1,4 @@
-|  | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |ⅩⅠ |
+| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |ⅩⅠ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:| :------:|
 | 算法[:pencil2:](#pencil2-算法) | 操作系统[:computer:](#computer-操作系统)|网络[:cloud:](#cloud-网络) | 面向对象[:couple:](#couple-面向对象) |数据库[:floppy_disk:](#floppy_disk-数据库)| Java [:coffee:](#coffee-java)| 系统设计[:bulb:](#bulb-系统设计)| 工具[:hammer:](#hammer-工具)| 编码实践[:speak_no_evil:](#speak_no_evil-编码实践)| 成长指南[:memo:](#memo-成长指南) |后记[:memo:](#memo-后记) |
 
@@ -53,7 +53,7 @@
 
   三大原则（继承、封装、多态）、类图、设计原则。
 
-### :floppy_disk: 数据库 
+### :floppy_disk: 数据库与缓存 
 
 - [数据库系统原理](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/数据库系统原理.md)
 
@@ -74,6 +74,9 @@
 - [Redis](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Redis.md)
 
   五种数据类型、字典和跳跃表数据结构、使用场景、和 Memcache 的比较、淘汰策略、持久化、文件事件的 Reactor 模式、复制。
+  
+- [缓存：深入分布式缓存](https://item.jd.com/12276070.html)
+[img:https://img10.360buyimg.com/n1/jfs/t11326/345/2418750621/299422/53098b06/5a1770b0N0b3f6a1c.jpg]
 
 ### :coffee: Java
 
