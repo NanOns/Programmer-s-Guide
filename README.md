@@ -3,11 +3,7 @@
 | 算法[:pencil2:](#pencil2-算法) | 操作系统[:computer:](#computer-操作系统)|网络[:cloud:](#cloud-网络) | 面向对象[:couple:](#couple-面向对象) |数据库[:floppy_disk:](#floppy_disk-数据库)| Java [:coffee:](#coffee-java)| 系统设计[:bulb:](#bulb-系统设计)| 工具[:hammer:](#hammer-工具)| 编码实践[:speak_no_evil:](#speak_no_evil-编码实践)| 成长指南[:memo:](#memo-成长指南) |后记[:memo:](#memo-后记) |
 
 <br>
-<div align="center">
-    <img src="other/LogoMakr_0zpEzN.png" width="150px">
-    <br>
-    <a href="other/Group.md"> <img src="https://img.shields.io/badge/>-group-4ab8a1.svg"></a> <a href="https://legacy.gitbook.com/book/cyc2018/interview-notebook/details"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
-</div>
+
 
 ### :pencil2: 算法
 
@@ -176,13 +172,13 @@
 
 广度以做互联网为例，如果你做交易做库存做营销，我一般期望掌握 
 
--1: 对于基础中间件在使用基础上形成基本原理了解，队列、缓存、rpc、监控、日志、网络通讯等，不求全至少某一块经得起5个问题追问
--2: 业务流程，领域建模清晰 
--3: 了解你的用户，业务规模，性能压测和业务监控 
--4: 所做产品和项目的难点 痛点 发展点 
--5: 对于语言和框架的掌握 
--6: 加分：开源项目 
--7: 加分：系统化输出doc ... 
+- 1: 对于基础中间件在使用基础上形成基本原理了解，队列、缓存、rpc、监控、日志、网络通讯等，不求全至少某一块经得起5个问题追问
+- 2: 业务流程，领域建模清晰 
+- 3: 了解你的用户，业务规模，性能压测和业务监控 
+- 4: 所做产品和项目的难点 痛点 发展点 
+- 5: 对于语言和框架的掌握 
+- 6: 加分：开源项目 
+- 7: 加分：系统化输出doc ... 
 
 专和精是互相协调的，而且要根据自己的情况，广也最好和当下结合。
 
