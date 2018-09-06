@@ -122,13 +122,15 @@
   缓存特征、缓存位置、缓存问题、数据分布、一致性哈希、LRU、CDN
   
 - [缓存：深入分布式缓存](https://item.jd.com/12276070.html)
+
   ![image](https://img10.360buyimg.com/n1/jfs/t11326/345/2418750621/299422/53098b06/5a1770b0N0b3f6a1c.jpg)
+  
   对于缓存知识从原理、开源项目解析到实战案例进行解析：
- -Aerospike原理及广告业务应用 
- -社交场景的缓存应用实践 
- -缓存在社交网络Feed系统中的架构实践
- -电商架构应用场景
- -同程凤凰缓存系统基于Redis的设计与实践
+ - Aerospike原理及广告业务应用 
+ - 社交场景的缓存应用实践 
+ - 缓存在社交网络Feed系统中的架构实践
+ - 电商架构应用场景
+ - 同程凤凰缓存系统基于Redis的设计与实践
 
 - [消息队列](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/消息队列.md)
 
