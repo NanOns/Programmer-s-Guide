@@ -7,7 +7,7 @@
 
 ### :pencil2: 算法
 
-- [剑指 Offer 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/剑指%20offer%20题解.md)
+- [剑指 Offer 题解](https://github.com/youjunyu/Programmer-s-Guide/blob/master/notes/剑指%20offer%20题解.md)
 
   目录根据原书第二版进行编排，代码和原书有所不同，尽量比原书更简洁。
 
